@@ -50,7 +50,7 @@ class InputLayer(Layer):
         vtype=GRB.CONTINUOUS,
         lb=lb,
         ub=ub,
-        name="inp_var_time_{self.time_step}"
+        name=f"inp_var_time_{self.time_step}"
     )
 
     def forward(self, prev_layer=None):
