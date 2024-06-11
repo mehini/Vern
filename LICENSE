@@ -1,8 +1,8 @@
 Copyright (C) 2023-2024 Mehran Hosseini. All rights reserved.
 
-The source code of VerNN is open and available to study, to modify,
+The source code of Vern is open and available to study, to modify,
 and to redistribute original or modified versions; distribution is
-under the terms of the modified BSD license (reproduced below). VerNN
+under the terms of the modified BSD license (reproduced below). Vern
 links against third-party libraries, see details below.
 
 Redistribution and use in source and binary forms, with or without
@@ -38,7 +38,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  Third-Party Software
 ---------------------------------------------------------------------
 
-The VerNN source code uses software which has its own copyright and
+The Vern source code uses software which has its own copyright and
 licensing terms, as described below.
 
   Gurobi  (https://www.gurobi.com)
