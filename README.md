@@ -1,2 +1,4 @@
-# VerNN
-Verifier of Neural Nets!
+# Vern
+Verifier of neural nets!
+
+More coming soon...
